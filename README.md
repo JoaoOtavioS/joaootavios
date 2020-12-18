@@ -12,16 +12,16 @@
 ## I'm an Enthusiastic, Entrepreneur, Developer and Student!
 
 - 🌱 I’m currently learning everything 😂
-- 🔭 I’m currently working on an [Minecraft Server Project 🌎][https://crystolnetwork.com], and studying at the same time!
+- 🔭 I’m currently working on an [Minecraft Server Project 🌎](https://crystolnetwork.com), and studying at the same time!
 - 👯 I’m looking to collaborate with other content creators
 - 📌 2020 Goals: Finish My Minecraft Server Project & Contribute to some Open Source projects
 - 🎭 Fun fact: Swimming, Hiking and Discovery
 
 ### Connect with me:
 
-[<img align="left" alt="joaootavios | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://youtube.com/joaootavios]
-[<img align="left" alt="joaootavios | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/joaootavios]
-[<img align="left" alt="joaootavios | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />][https://discord.gg/JoaoOtavioS#4300]
+[<img align="left" alt="joaootavios | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/joaootavios)
+[<img align="left" alt="joaootavios | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/joaootavios)
+[<img align="left" alt="joaootavios | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/JoaoOtavioS#4300)
 
 <br />
 
