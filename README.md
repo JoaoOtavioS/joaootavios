@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning everything 😂
 - 🔭 I’m currently working on an [Minecraft Server Project 🌎](https://crystolnetwork.com), and studying at the same time!
 - 👯 I’m looking to collaborate with other content creators
-- 📌 2020 Goals: Finish My Minecraft Server Project & Contribute to some Open Source projects
+- 📌 2021 Goals: Finish My Minecraft Server Project & Contribute to some Open Source projects
 - 🎭 Fun fact: Swimming, Hiking and Discovery
 
 ### Connect with me:
