@@ -12,9 +12,9 @@
 ## I'm an Enthusiastic, Entrepreneur, Developer and Student!
 
 - 🌱 I’m currently learning everything 😂
-- 🔭 I’m currently working on an [Minecraft Server Project 🌎](https://crystolnetwork.com), and studying at the same time!
+- 🔭 I am currently working on [Square Cloud](https://squarecloud.app).
 - 👯 I’m looking to collaborate with other content creators
-- 📌 2021 Goals: Finish My Minecraft Server Project & Contribute to some Open Source projects
+- 📌 2022 Goals: May Square Cloud reach 10,000 users
 - 🎭 Fun fact: Swimming, Hiking and Discovery
 
 ### Connect with me:
