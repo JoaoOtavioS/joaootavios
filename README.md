@@ -17,6 +17,8 @@
 - 📌 2022 Goals: May Square Cloud reach 10,000 users
 - 🎭 Fun fact: Swimming, Hiking and Discovery
 
+![](https://komarev.com/ghpvc/?username=JoaoOtavioS)
+
 ### Connect with me:
 
 [<img align="left" alt="joaootavios | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/joaootavios)
