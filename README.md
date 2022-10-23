@@ -4,7 +4,7 @@
   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-<a href="https://discord.gg/JoaoOtavioS#4300">
+<a href="https://discordapp.com/users/313397145698959364">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
@@ -25,7 +25,7 @@
 
 [<img align="left" alt="joaootavios | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/joaootavios)
 [<img align="left" alt="joaootavios | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/joaootaviosge)
-[<img align="left" alt="joaootavios | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/JoaoOtavioS#4300)
+[<img align="left" alt="joaootavios | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discordapp.com/users/313397145698959364)
 
 <br />
 
