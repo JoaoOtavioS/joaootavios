@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning everything 😂
 - 🔭 I am currently working on [Square Cloud](https://squarecloud.app).
 - 👯 I’m looking to collaborate with other content creators
-- 📌 2022 Goals: May Square Cloud reach 13,000 users
+- 📌 2023 Goals: May Square Cloud reach 50,000 users
 - 🎭 Fun fact: Swimming, Hiking and Discovery
 
 ![](https://komarev.com/ghpvc/?username=JoaoOtavioS&label=PROFILE+VIEWS)
