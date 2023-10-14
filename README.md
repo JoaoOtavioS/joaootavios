@@ -11,11 +11,8 @@ Welcome to my GitHub profile! I'm passionate about learning and building excitin
 - ⚡ Fun fact: I enjoy swimming, hiking, and discovering new things
 
 ## 🚀 Languages and Tools
-- Visual Studio Code
-- IntelliJ IDEA
-- Java
-- JavaScript
-- C++
+- Visual Studio Code & IntelliJ IDEA.
+- JavaScript, Java & C++
 - HTML5 / CSS3 / Sass
 - React / Next.js
 - Redis / SQL / MySQL / MongoDB
