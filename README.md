@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about learning and building excitin
 - 🔭 I’m currently working on [Square Cloud](https://squarecloud.app)
 - 📚 I'm a student, always eager to expand my knowledge
 - 👯 I’m looking to collaborate with other content creators
-- 🎯 My 2023 Goals: Reach 50,000 users for Square Cloud
+- 🎯 My 2024 Goals: Reach 100,000 developers in Square Cloud Platform
 - ⚡ Fun fact: I enjoy swimming, hiking, and discovering new things
 
 ## 🚀 Languages and Tools
